@@ -50,3 +50,13 @@ This project was inspired by my passion for data analytics and the fantastic edu
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/YouTubeDataAnalytics.git
+
+
+## Acknowledgements 🙏
+Special thanks to **Rishabh Mishra** for the incredible content and to everyone in the data science community for their constant support and inspiration.
+
+## Contributing 🤝
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or new ideas.
+
+## Contact 📧
+Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/ashu-goutam-960a19253/]) for any inquiries or collaboration ideas!
