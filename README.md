@@ -49,7 +49,7 @@ This project was inspired by my passion for data analytics and the fantastic edu
 ## How to Use 📥
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/YouTubeDataAnalytics.git
+   git clone https://github.com/Ashu29y/YouTube_API_data_analysis-Project/tree/main
 
 
 ## Acknowledgements 🙏
