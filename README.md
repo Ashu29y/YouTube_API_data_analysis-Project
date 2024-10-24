@@ -59,4 +59,4 @@ Special thanks to **Rishabh Mishra** for the incredible content and to everyone 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new ideas.
 
 ## Contact 📧
-Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/ashu-goutam-960a19253/]) for any inquiries or collaboration ideas!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ashu-goutam-960a19253/) for any inquiries or collaboration ideas!
